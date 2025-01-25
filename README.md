@@ -31,3 +31,9 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 Chart Type: Matrix Card.
 
 
+### Dashboard overview
+
+
+
+
+
