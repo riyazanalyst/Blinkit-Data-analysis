@@ -1,5 +1,6 @@
 # Blinkit-Data-analysis
 Blinkit sales data analysis
+# DashBoard Link: https://app.powerbi.com/view?r=eyJrIjoiMDI1NDkzOTYtMDFlMy00YTI2LThkZDYtYTk4YzAzYmNmZjVmIiwidCI6IjQ4YTJjNDJmLTJjZDUtNDM5Yy1hZTM2LWJkODFiOWIzMmViZiJ9
 
 **BUSINESS REQUIREMENT**
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
